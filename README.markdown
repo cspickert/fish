@@ -2,7 +2,9 @@
 
 ### Overview
 
-This is my [fish](http://fishshell.com) configuration.
+This is the [fish](http://fishshell.com) configuration I'm using on my Mac (currently under Yosemite). A lot of it is going to be specific to my own workflows, but you might find it useful, too.
+
+You can see my old bash dotfiles [here](https://github.com/cspickert/dotfiles).
 
 ### Installing
 
