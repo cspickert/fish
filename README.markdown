@@ -19,3 +19,4 @@ git clone https://github.com/cspickert/fish.git ~/.config/fish
 * [Alias completion](https://github.com/fish-shell/fish-shell/issues/393)
 * [-exec not working in find](https://github.com/fish-shell/fish-shell/issues/95)
 * [Want variable string manipulation](https://github.com/fish-shell/fish-shell/issues/156)
+* [bash/fish Translation table](http://en.wikipedia.org/wiki/Friendly_interactive_shell#bash.2Ffish_Translation_table)
