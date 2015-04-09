@@ -25,3 +25,8 @@ end
 
 # Aliases
 alias l ll
+
+# direnv
+if which -s direnv
+   eval (direnv hook fish)
+end
