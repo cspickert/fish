@@ -9,7 +9,6 @@ set -x TERM 'xterm-256color'
 set -x GREP_OPTIONS '--color=auto'
 set -x GREP_COLOR '3;33'
 
-set -x LESS '--ignore-case --raw-control-chars'
 set -x PAGER 'less'
 set -x EDITOR 'emacs'
 
