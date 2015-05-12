@@ -1,3 +1,3 @@
 function xcopen
-	open -a Xcode.app $argv
+	open -a 'Xcode' --args $argv
 end

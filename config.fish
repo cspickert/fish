@@ -35,4 +35,4 @@ if which -s direnv
 end
 
 # nix
-eval (~/.config/fish/misc/nix_fish_env.sh)
+eval (~/.config/fish/misc/nix_fish_env.sh) 2>/dev/null
