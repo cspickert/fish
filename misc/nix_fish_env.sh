@@ -24,6 +24,7 @@ IFS=: read -a NIX_PATH_ARRAY <<< "$NIX_PATH"
 # Echo fish commands to export environment variables
 echo set -x PATH ${PATH_ARRAY[@]} \$PATH \;
 echo set -x NIX_PATH ${NIX_PATH_ARRAY[@]} \;
+echo set -x MANPATH $NIX_LINK/share/man:$MANPATH
 
 if [ -f "$SSL_CERT_FILE" ]; then
     echo set -x SSL_CERT_FILE \'$SSL_CERT_FILE\' \;
